@@ -12,7 +12,7 @@ and [Unsee](https://github.com/cloudflare/unsee).
 Clone this repository and run the monitoring stack:
 
 ```bash
-$ git clone https://github.com/stefanprodan/swarmprom.git
+$ git clone https://github.com/k8stech/swarmprom.git
 $ cd swarmprom
 
 ADMIN_USER=admin \
@@ -60,7 +60,7 @@ These instructions assume you already have Traefik set up following that guide a
 * Clone this repository and enter into the directory:
 
 ```bash
-$ git clone https://github.com/stefanprodan/swarmprom.git
+$ git clone https://github.com/k8stech/swarmprom.git
 $ cd swarmprom
 ```
 
